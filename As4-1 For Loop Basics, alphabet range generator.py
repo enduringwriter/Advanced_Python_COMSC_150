@@ -1,6 +1,6 @@
 def main():
     """
-    
+    Alphabet range generator with input validation.
     Assumptions: all inputs are lowercase
     """
 
